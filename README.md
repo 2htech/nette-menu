@@ -319,6 +319,8 @@ class.
 See the default [ArrayMenuLoader](./src/Carrooi/Menu/Loaders/ArrayMenuLoader.php) how it works.
 
 ## Changelog
+* 3.0
+	+ Nette 3.0 compatibility
 
 * 2.1.0
 	+ Fixed registration of more menus [#23](https://github.com/Carrooi/Nette-Menu/pull/23)
