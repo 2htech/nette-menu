@@ -1,5 +1,5 @@
 {
-	"name": "darkling/nette-menu",
+	"name": "2htech/nette-menu",
 	"type": "library",
 	"description": "Menu for Nette framework",
 	"keywords": ["nette", "menu", "control", "component", "breadcrumbs"],
