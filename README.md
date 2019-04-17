@@ -8,7 +8,7 @@ Nette component for creating menus, breadcrumbs and sitemaps.
 ## Requirements
 
 * PHP >=7.1
-* Nette ^2.4 
+* Nette ^3.0 
 
 ## Installation
 
