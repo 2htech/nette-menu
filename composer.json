@@ -1,5 +1,5 @@
 {
-	"name": "2htech/nette-menu",
+	"name": "app2h/nette-menu",
 	"type": "library",
 	"description": "Menu for Nette framework",
 	"keywords": ["nette", "menu", "control", "component", "breadcrumbs"],
