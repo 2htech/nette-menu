@@ -15,7 +15,7 @@ Nette component for creating menus, breadcrumbs and sitemaps.
 **Install package with composer:**
 
 ```
-$ composer require 2htech/nette-menu
+$ composer require app2h/nette-menu
 ```
 
 **Register as nette extension:**
